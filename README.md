@@ -12,7 +12,7 @@
     <td valign="top" width="70%">
 
 **About Me:**
-- 🔭 I’m currently working on **Credit Card Fraud Detection System using ML**
+- 🔭 I’m currently working on **Spotify Streaming Analysis using Snowflake and ETL**
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
 - 💬 Ask me about **Data Analytics, Data Mining, Predictive Analytics, Statistics for Data Insights, Machine Learning, Deep Learning, Advanced SQL, Excel, Tableau**
 - ⚡ Fun fact: **I channel my inner Sherlock Holmes by analyzing data sets to uncover hidden clues, just like the great detective himself**
