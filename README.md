@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
 - 🌱 I am a certified **AWS Cloud Practitioner**
 - 💬 Ask me about **Data Analytics, Data Mining, Predictive Analytics, Statistics for Data Insights, Machine Learning, Deep Learning, Advanced SQL, Excel, Tableau**
-- ⚡ Fun fact: **I channel my inner Sherlock Holmes by analyzing data sets to uncover hidden clues, just like the detective himself**
+- ⚡ Fun fact: **I am big Anime enthusiast and love watching Tech Videos in my spare time**
 - 📫 How to reach me: **kunalgandhi960@gmail.com**
 
     </td>
