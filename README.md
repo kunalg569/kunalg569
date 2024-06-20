@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kunal Gandhi</h1>
-<h3 align="center">A passionate data analytics professional</h3>
+<h3 align="center">A data driven professional</h3>
 
 <table>
   <tr>
