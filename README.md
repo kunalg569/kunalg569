@@ -12,7 +12,7 @@
     <td valign="top" width="70%">
 
 **About Me:**
-- 🔭 I’m currently working on **Tableau Dashboard for Tech Salaries**
+- 🔭 I’m currently working on **Dashboard for 120 years of Olympic history**
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
 - 🌱 I am a certified **AWS Cloud Practitioner**
 - 💬 Ask me about **Data Analytics, Data Mining, Predictive Analytics, Statistics for Data Insights, Machine Learning, Deep Learning, Advanced SQL, Excel, Tableau**
