@@ -66,14 +66,16 @@
 - **Report Generation and Executive Summaries**
 
 ### 📈 Experience
-- Enhanced Q&A system's data pipeline within LangChain framework to improve conversational agent responses.
-- Developed efficient data segmentation strategy to enhance preprocessing for LLM, improving response quality.
-- Fine-tuned LLaMA 2 with Roberta model and Pinecone, enhancing predictive accuracy for domain-specific inquiries.
-- Co-developed SSE_GPT Stage 3 prototype, resulting in faster conversational agent response times.
-- Performed contextual testing on 'SSE_GPT' to increase model accuracy and overall performance.
+- 🎯 **Business Intelligence & Data Analyst** with **4+ years of experience** delivering end-to-end data solutions across **investment, research, and e-commerce** domains.  
+- 🧠 Skilled in **SQL, Python, Tableau, and Power BI** for advanced analytics, automation, and actionable insights.  
+- ☁️ Hands-on with **multi-cloud platforms** —  
+  **AWS (Redshift, Lambda, SES)** | **Azure (Databricks, Synapse)** | **GCP (BigQuery)** — enabling scalable data pipelines and processing.  
+- 📊 Delivered measurable results: **98% data accuracy**, **25% boost in operational efficiency**, and **14% increase in conversion rates**.  
+- 🤖 Experienced in **data modeling, LLM-based analytics**, and **visualization design**, bridging business goals with technical solutions.  
+- 🤝 Strong collaborator in **Agile environments**, transforming business requirements into data-driven strategies.  
 
 ### 🎯 Concentrations
-`DATA SCIENCE` `ENGINEERING MANAGEMENT` `LANGUAGE MODEL APPLICATION`
+`DATA ANALYTICS` `DATA SCIENCE` `ENGINEERING MANAGEMENT` `LLM DEVELOPMENT & APPLICATION` 
 
 ### 🌟 My Motto
 "I believe in the power of data to transform and innovate, always striving to push the boundaries of what's possible with technology."
